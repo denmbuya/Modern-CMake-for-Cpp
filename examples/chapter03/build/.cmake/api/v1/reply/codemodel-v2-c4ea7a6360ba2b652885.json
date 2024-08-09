@@ -1,0 +1,88 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "cars",
+					"jsonFile" : "directory-cars-Debug-ce342d7c512c5444f558.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "cars",
+					"targetIndexes" : 
+					[
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "Rental",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Rental::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Rental-Debug-ecd1b908df2dccc11ddc.json",
+					"name" : "Rental",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "cars::@5ab15ec482437d72f95f",
+					"jsonFile" : "target-cars-Debug-c1682fbb99d3f2bcd88e.json",
+					"name" : "cars",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/denismbuya/projects/build_systems/tutorial_git/Modern-CMake-for-Cpp/examples/chapter03/build",
+		"source" : "/home/denismbuya/projects/build_systems/tutorial_git/Modern-CMake-for-Cpp/examples/chapter03/03-add_subdirectory"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

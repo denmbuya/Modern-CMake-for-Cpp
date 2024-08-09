@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/denismbuya/projects/build_systems/tutorial_git/Modern-CMake-for-Cpp/examples/chapter03/build",
+  "command": "/usr/bin/g++  -I/home/denismbuya/projects/build_systems/tutorial_git/Modern-CMake-for-Cpp/examples/chapter03/03-add_subdirectory/cars/. -g -o CMakeFiles/Rental.dir/main.cpp.o -c /home/denismbuya/projects/build_systems/tutorial_git/Modern-CMake-for-Cpp/examples/chapter03/03-add_subdirectory/main.cpp",
+  "file": "/home/denismbuya/projects/build_systems/tutorial_git/Modern-CMake-for-Cpp/examples/chapter03/03-add_subdirectory/main.cpp",
+  "output": "CMakeFiles/Rental.dir/main.cpp.o"
+},
+{
+  "directory": "/home/denismbuya/projects/build_systems/tutorial_git/Modern-CMake-for-Cpp/examples/chapter03/build/cars",
+  "command": "/usr/bin/g++  -I/home/denismbuya/projects/build_systems/tutorial_git/Modern-CMake-for-Cpp/examples/chapter03/03-add_subdirectory/cars/. -g -o CMakeFiles/cars.dir/car.cpp.o -c /home/denismbuya/projects/build_systems/tutorial_git/Modern-CMake-for-Cpp/examples/chapter03/03-add_subdirectory/cars/car.cpp",
+  "file": "/home/denismbuya/projects/build_systems/tutorial_git/Modern-CMake-for-Cpp/examples/chapter03/03-add_subdirectory/cars/car.cpp",
+  "output": "cars/CMakeFiles/cars.dir/car.cpp.o"
+}
+]

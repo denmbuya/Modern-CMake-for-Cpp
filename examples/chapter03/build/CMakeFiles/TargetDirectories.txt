@@ -1,0 +1,6 @@
+/home/denismbuya/projects/build_systems/tutorial_git/Modern-CMake-for-Cpp/examples/chapter03/build/CMakeFiles/Rental.dir
+/home/denismbuya/projects/build_systems/tutorial_git/Modern-CMake-for-Cpp/examples/chapter03/build/CMakeFiles/edit_cache.dir
+/home/denismbuya/projects/build_systems/tutorial_git/Modern-CMake-for-Cpp/examples/chapter03/build/CMakeFiles/rebuild_cache.dir
+/home/denismbuya/projects/build_systems/tutorial_git/Modern-CMake-for-Cpp/examples/chapter03/build/cars/CMakeFiles/cars.dir
+/home/denismbuya/projects/build_systems/tutorial_git/Modern-CMake-for-Cpp/examples/chapter03/build/cars/CMakeFiles/edit_cache.dir
+/home/denismbuya/projects/build_systems/tutorial_git/Modern-CMake-for-Cpp/examples/chapter03/build/cars/CMakeFiles/rebuild_cache.dir
